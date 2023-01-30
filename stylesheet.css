@@ -1,0 +1,27 @@
+.bodys {
+    background-color: black;
+    color: lime;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-size: 18px;
+
+    font-weight: 400;
+    line-height: 20px;
+
+
+}
+
+h1 {
+    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+    font-style: normal;
+    font-variant: normal;
+}
+
+h3+a {
+    color: lime;
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+}
