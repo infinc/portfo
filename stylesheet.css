@@ -17,7 +17,7 @@ h1 {
     font-variant: normal;
 }
 
-h3+a {
+a {
     color: lime;
     text-decoration: none;
 }
